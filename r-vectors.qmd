@@ -4,5 +4,9 @@ author: "Henry Oliver"
 format: html
 ---
 
+# Create and store the vector
+```{r}
+marmots <- c("blue", "green", "4", "yellow")
+class(marmots)
 
-Change
+```
