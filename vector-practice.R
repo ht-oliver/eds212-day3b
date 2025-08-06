@@ -22,5 +22,5 @@ ringtail + fox
 ringtail-fox
 100*ringtail #scalar multiplication
 
-ringtail %*% fox #dog product
+ringtail %*% fox #dot product
 
